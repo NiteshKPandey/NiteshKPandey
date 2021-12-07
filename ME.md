@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NiteshKPandey
-- 👀 I’m interested in Coding in PYHTON and JAVA
+- 👀 I’m interested in Coding, Mechanical Design
 - 🌱 I’m currently learning Python and DSA
-- �
-- 📫 How to reach me ...
+- � Mechanical Engineer 
+- 📫 Working to improve my technical skills.
 
 <!---
 NiteshKPandey/NiteshKPandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
